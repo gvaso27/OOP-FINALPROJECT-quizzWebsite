@@ -4,10 +4,10 @@ import java.io.*;
 import java.sql.*;
 
 public class DBConnection {
-    private static final String user = "unidbuser";
-    private static final String password = "oopUser@2024";
+    private static final String user = "user";
+    private static final String password = "password";
     private static final String db_name = "QuizDB";
-    private static final String drop_sql_path = "/home/mer0/Documents/uni/Sem12/OOP/final-project/quizz_website/";
+    private static final String drop_sql_path = "/path_to/quizz_website/";
     public static Connection getConnection() throws ClassNotFoundException, SQLException {
         Class.forName("com.mysql.cj.jdbc.Driver");
         return DriverManager.getConnection("jdbc:mysql://localhost:3306/" + db_name, user, password);
