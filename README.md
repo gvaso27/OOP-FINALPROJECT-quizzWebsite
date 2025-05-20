@@ -14,8 +14,10 @@ An interactive quiz website developed as part of an Object-Oriented Programming 
 
 - **Java**
 - **JavaFX**
+- **tomcat7**
 
 ### Installation
+
 
 1. Clone the repository:
    ```bash
@@ -25,7 +27,11 @@ An interactive quiz website developed as part of an Object-Oriented Programming 
    ```bash
    cd OOP-FINALPROJECT-quizzWebsite
    ```
-3. Run the application in your Java IDE.
+3. Run the application:
+   ```bash
+   mvn clean install
+   mvn tomcat7:run
+   ```
 
 ### Usage
 
