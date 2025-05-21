@@ -41,8 +41,8 @@ An interactive quiz website developed as part of an Object-Oriented Programming 
 ### 📸 Screenshots
 
 <p align="center">
-  <img src="WebScreens/SignIn.png" alt="Sign in"/>
-  <img src="WebScreens/chat.png" alt="Chat"/>
+  <img src="WebScreens/SignIn.png" alt="Sign in" weight="0.5f"/>
+  <img src="WebScreens/chat.png" alt="Chat" weight="0.5f"/>
 </p>
 <p align="center">
   <img src="WebScreens/ProfilePage1.png" alt="Profile Page 1"/>
