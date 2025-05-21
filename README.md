@@ -37,3 +37,22 @@ An interactive quiz website developed as part of an Object-Oriented Programming 
 
 - Follow the prompts to create and answer quizzes.
 - View your scores in the results section.
+
+### 📸 Screenshots
+
+<p align="center">
+  <img src="WebScreens/SignIn.png" alt="Sign in" width="200"/>
+  <img src="WebScreens/Chat.png" alt="Chat" width="200"/>
+</p>
+<p align="center">
+  <img src="WebScreens/ProfilePage1.png" alt="Profile Page 1" width="200"/>
+  <img src="WebScreens/ProfilePage2.png" alt="Profile Page 1" width="200"/>
+</p>
+<p align="center">
+  <img src="WebScreens/TakeQuizz.png" alt="Take Quizz" width="200"/>
+  <img src="WebScreens/CompleteQuizz.png" alt="Complete Quizz" width="200"/>
+</p>
+<p align="center">
+  <img src="WebScreens/QuizzList.png" alt="Quizz List" width="200"/>
+  <img src="WebScreens/StartQuizz.png" alt="Start Quizz" width="200"/>
+</p>
