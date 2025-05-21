@@ -41,19 +41,13 @@ An interactive quiz website developed as part of an Object-Oriented Programming 
 ### 📸 Screenshots
 
 <p align="center">
-  <img src="WebScreens/SignIn.png" alt="Sign in" width="400"/>
-  <img src="WebScreens/chat.png" alt="Chat" width="400"/>
-</p>
-<p align="center">
-  <img src="WebScreens/ProfilePage1.png" alt="Profile Page 1" width="400"/>
-  <img src="WebScreens/ProfilePage2.png" alt="Profile Page 1" width="400"/>
-</p>
-<p align="center">
-  <img src="WebScreens/TakeQuizz.png" alt="Take Quizz" width="400"/>
-  <img src="WebScreens/CompleteQuizz.png" alt="Complete Quizz" width="400"/>
-</p>
-<p align="center">
-  <img src="WebScreens/QuizzList.png" alt="Quizz List" width="400"/>
-  <img src="WebScreens/StartQuizz.png" alt="Start Quizz" width="400"/>
+  <img src="WebScreens/SignIn.png" alt="Sign in"/>
+  <img src="WebScreens/chat.png" alt="Chat"/>
+  <img src="WebScreens/ProfilePage1.png" alt="Profile Page 1"/>
+  <img src="WebScreens/ProfilePage2.png" alt="Profile Page 1"/>
+  <img src="WebScreens/TakeQuizz.png" alt="Take Quizz"/>
+  <img src="WebScreens/CompleteQuizz.png" alt="Complete Quizz"/>
+  <img src="WebScreens/QuizzList.png" alt="Quizz List"/>
+  <img src="WebScreens/StartQuizz.png" alt="Start Quizz"/>
 </p>
 
